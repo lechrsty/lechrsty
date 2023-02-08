@@ -57,3 +57,6 @@
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ## :checkered_flag: My Stats
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=tokyonight_duo)](https://git.io/streak-stats)
+   
+   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=dark)
+
