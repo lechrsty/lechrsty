@@ -12,10 +12,19 @@
   I'm Christy!
 </h1>
 
-<div id="badges"> 
-  <div>
+### Now Listening 
+
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=3c57c3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&redirect=true)
+ 
+ <h2> :sparkles: About Me :sparkles: </h2>
+ <div id="badges"> 
+   <div>     
    <img src="https://komarev.com/ghpvc/?username=lechrsty&style=flat-square&color=blue" alt=""/>
    <img src="https://img.shields.io/github/followers/lechrsty?style=social"/>
+       <a href="https://open.spotify.com/user/christy.le?si=htfYKQ8SR4O0Nlf2NOABGg">
+         <img align=right src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+       </a>
        <a href="https://www.instagram.com/christy.le/?hl=en">
          <img align=right src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
        </a>
@@ -27,10 +36,10 @@
        </a>
  </div>
  
- <h2> :sparkles: About Me :sparkles: </h2>
- 
-<bio> I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming the abstract into more concrete, tangible forms. I look forward to contributing to projects that align with my personal ethos and interests, where I can utilize my skillsets to create solutions that facilitate and cultivate a more equitable future for all. It's inspiring to not only be in constant exploration of new technologies, but to realize their potential to drive social impact and the role I can create for myself in that story. 
-</bio>
+   <div> 
+      </br>
+      I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming the abstract into more concrete, tangible forms. I look forward to contributing to projects that align with my personal ethos and interests, where I can utilize my skillsets to create solutions that facilitate and cultivate a more equitable future for all. It's inspiring to not only be in constant exploration of new technologies, but to realize their potential to drive social impact and the role I can create for myself in that story. 
+   </div>
 
 - :rocket: Based in Seattle 
 - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> I’m currently attending Nashville Software School
