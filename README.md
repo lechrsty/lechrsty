@@ -32,9 +32,9 @@
 <bio> I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming the abstract into more concrete, tangible forms. I look forward to contributing to projects that align with my personal ethos and interests, where I can utilize my skillsets to create solutions that facilitate and cultivate a more equitable future for all. It's inspiring to not only be in constant exploration of new technologies, but to realize their potential to drive social impact and the role I can create for myself in that story. 
 </bio>
 
-- :rocket: Based in Seattle
-- :mortar_board: I’m currently attending Nashville Software School
-- :notes: Typically spinning records on my turntable or digging through crates to find the newest, tastiest sounds
+- :rocket: Based in Seattle 
+- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> I’m currently attending Nashville Software School
+- <img src="https://media.giphy.com/media/Qf2JERtfzI4c7rfzlF/giphy.gif" width="20"/> Typically spinning records on my turntable or digging through crates to find the newest, tastiest sounds
 - :cocktail: Likely to be found meditating on a glass of fernet
 - :busts_in_silhouette: Open to paying forward my time and knowledge to non-profits or mutual aid organizations who seek to grow their digital presence but have limited monetary resources- let's collaborate!
 - :speech_balloon: Ask me about CAN
