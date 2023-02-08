@@ -15,7 +15,7 @@
 ### Now Listening 
 
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=3c57c3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=3c57c3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&redirect=true)
  
  <h2> :sparkles: About Me :sparkles: </h2>
  <div id="badges"> 
