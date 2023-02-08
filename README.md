@@ -36,7 +36,7 @@
 - :mortar_board: I’m currently attending Nashville Software School
 - :notes: Typically spinning records on my turntable or digging through crates to find the newest, tastiest sounds
 - :cocktail: Likely to be found meditating on a glass of fernet
-- :mount_fuji: In recovery from ACL reconstruction due to a rock climbing injury, but determined to send again one day
+- :busts_in_silhouette: Open to paying forward my time and knowledge to non-profits or mutual aid organizations who seek to grow their digital presence but have minimal monetary resources- let's collaborate!
 - :speech_balloon: Ask me about CAN
 
 ## My Tech Stack
