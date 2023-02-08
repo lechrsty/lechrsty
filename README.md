@@ -39,6 +39,8 @@
    <div> 
       </br>
       I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming the abstract into more concrete, tangible forms. I look forward to contributing to projects that align with my personal ethos and interests, where I can utilize my skillsets to create solutions that facilitate and cultivate a more equitable future for all. It's inspiring to not only be in constant exploration of new technologies, but to realize their potential to drive social impact and the role I can create for myself in that story. 
+      </br>
+      </br>
    </div>
 
 - :rocket: Based in Seattle 
