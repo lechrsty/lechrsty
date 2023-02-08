@@ -19,21 +19,23 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=3c57c3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&redirect=true)
  
-<h2> :sparkles: About Me :sparkles: </h2>
-  
-   <img src="https://komarev.com/ghpvc/?username=lechrsty&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/lechrsty?style=social"/> 
+ <h2> :sparkles: About Me :sparkles: </h2>
+ 
+   <a href="https://www.linkedin.com/in/lechrsty/">
+      <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://www.canva.com/design/DAFWsJnZ9Nc/MFzycmU7IK7DViKWaIj5gA/view?utm_content=DAFWsJnZ9Nc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
+      <img  src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=discogs&logoColor=white" alt="Resume Badge"/>
+   </a>
    <a href="https://open.spotify.com/user/christy.le?si=htfYKQ8SR4O0Nlf2NOABGg"> 
       <img  src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
    </a> 
    <a href="https://www.instagram.com/christy.le/?hl=en">
       <img  src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
-   <a href="https://www.canva.com/design/DAFWsJnZ9Nc/MFzycmU7IK7DViKWaIj5gA/view?utm_content=DAFWsJnZ9Nc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
-      <img  src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=discogs&logoColor=white" alt="Resume Badge"/>
-   </a>
-   <a href="https://www.linkedin.com/in/lechrsty/">
-      <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
+   
+   <img src="https://komarev.com/ghpvc/?username=lechrsty&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/lechrsty?style=social"/> 
+ 
  
    <div> 
       </br>
