@@ -2,11 +2,11 @@
 
 <div id="header" align=center >
    
-   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/Jom7SAzub0mtEHoBMI/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/YQMiQtopRjjZRSYRJF/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/9e1RwDh0YUYoyN5uR1/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="150"/>
+   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/Jom7SAzub0mtEHoBMI/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/YQMiQtopRjjZRSYRJF/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/9e1RwDh0YUYoyN5uR1/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="100"/>
 </div>
 
 <h1>
