@@ -1,12 +1,13 @@
 ### 
 
-   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675886807/Copy_of_Black_Minimal_Motivation_Quote_LinkedIn_Banner_jjuwzi.jpg" width="1000"/>
-
 <h1>
   Hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Christy!
 </h1>
+
+
+   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675886807/Copy_of_Black_Minimal_Motivation_Quote_LinkedIn_Banner_jjuwzi.jpg" width="1000"/>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Now Listening
 
