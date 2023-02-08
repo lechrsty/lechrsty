@@ -56,7 +56,10 @@
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ## :checkered_flag: My Stats
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=tokyonight_duo)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=gotham)](https://git.io/streak-stats)
    
-   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=transparent)
+   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=gotham)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lechrsty&layout=compact&theme=gotham)](https://github.com/lechrsty/github-readme-stats)
+
 
