@@ -62,7 +62,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang-api&theme=gotham)](https://github.com/lechrsty/woofgang-api)
 
 
-## <img src="https://media.giphy.com/media/SvLJ0RFuwQIpnCuBL2/giphy.gif" width="50"/> :checkered_flag: My Stats 
+## <img src="https://media.giphy.com/media/9JPJZhaS2xncw6QtQ7/giphy.gif" width="60"/>  My Stats 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=gotham)](https://git.io/streak-stats)
    
    ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=gotham)
