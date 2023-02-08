@@ -58,5 +58,5 @@
 ## :checkered_flag: My Stats
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=tokyonight_duo)](https://git.io/streak-stats)
    
-   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=dark)
+   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=transparent)
 
