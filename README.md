@@ -1,13 +1,6 @@
 ### 
 
-<div id="header" align=center >
-   
-   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/Jom7SAzub0mtEHoBMI/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/YQMiQtopRjjZRSYRJF/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/9e1RwDh0YUYoyN5uR1/giphy.gif" width="150"/>
-   <img src="https://media.giphy.com/media/3o7aDcEbGEsFAwSL0Q/giphy.gif" width="150"/>
-</div>
+   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675886807/Copy_of_Black_Minimal_Motivation_Quote_LinkedIn_Banner_jjuwzi.jpg" width="1000"/>
 
 <h1>
   Hey there, 
