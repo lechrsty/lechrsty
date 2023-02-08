@@ -70,7 +70,7 @@
    
 ## Client-Side Capstone Application
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang&theme=gotham)](https://github.com/lechrsty/woofgang)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang-api&theme=gotham)](https://github.com/lechrsty/woofgang-api)
+   &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang-api&theme=gotham)](https://github.com/lechrsty/woofgang-api)
 
 
 ## <img src="https://media.giphy.com/media/9JPJZhaS2xncw6QtQ7/giphy.gif" width="50"/>  My Stats 
