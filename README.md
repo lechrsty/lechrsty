@@ -12,7 +12,7 @@
   I'm Christy!
 </h1>
 
-### Now Listening 
+### &nbsp;&nbsp;&nbsp;&nbsp;Now Listening 
 
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=3c57c3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=christy.le&redirect=true)
