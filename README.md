@@ -23,16 +23,16 @@
   
    <img src="https://komarev.com/ghpvc/?username=lechrsty&style=flat-square&color=blue" alt=""/> <img src="https://img.shields.io/github/followers/lechrsty?style=social"/> 
    <a href="https://open.spotify.com/user/christy.le?si=htfYKQ8SR4O0Nlf2NOABGg"> 
-      <img align=right src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+      <img  src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
    </a> 
    <a href="https://www.instagram.com/christy.le/?hl=en">
-      <img align=right src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img  src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
    <a href="https://www.canva.com/design/DAFWsJnZ9Nc/MFzycmU7IK7DViKWaIj5gA/view?utm_content=DAFWsJnZ9Nc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
-      <img align=right src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=discogs&logoColor=white" alt="Resume Badge"/>
+      <img  src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=discogs&logoColor=white" alt="Resume Badge"/>
    </a>
    <a href="https://www.linkedin.com/in/lechrsty/">
-      <img align=right src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img  src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
  
    <div> 
