@@ -56,7 +56,13 @@
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-## :checkered_flag: My Stats
+   
+## Client-Side Capstone Application
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang&theme=gotham)](https://github.com/lechrsty/woofgang)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang-api&theme=gotham)](https://github.com/lechrsty/woofgang-api)
+
+
+## <img src="https://media.giphy.com/media/SvLJ0RFuwQIpnCuBL2/giphy.gif" width="50"/> :checkered_flag: My Stats 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lechrsty&theme=gotham)](https://git.io/streak-stats)
    
    ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lechrsty&show_icons=true&theme=gotham)
