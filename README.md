@@ -7,7 +7,7 @@
 </h1>
 
 
-   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675886807/Copy_of_Black_Minimal_Motivation_Quote_LinkedIn_Banner_jjuwzi.jpg" width="1000"/>
+   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675978703/img_src_httpsres.cloudinary.comdmilofp0zimageuploadv1675886807Copy_of_Black_Minimal_Motivation_Quote_LinkedIn_Banner_jjuwzi.jpg_width_1000_uehgvc.jpg" width="1000"/>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Now Listening
 
