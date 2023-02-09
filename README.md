@@ -1,4 +1,6 @@
 ### 
+<img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675978888/Untitled_design_o6zkim.jpg" width="1000"/>
+
 
 <h1>
   Hey there, 
@@ -6,8 +8,6 @@
   I'm Christy!
 </h1>
 
-
-   <img src="https://res.cloudinary.com/dmilofp0z/image/upload/v1675978888/Untitled_design_o6zkim.jpg" width="1000"/>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Now Listening
 
