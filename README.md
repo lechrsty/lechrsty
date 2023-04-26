@@ -30,18 +30,16 @@
  
    <div> 
       </br>
-      I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming the abstract into more concrete, tangible forms. I look forward to contributing to projects that align with my personal ethos and interests, where I can utilize my skillsets to create solutions that facilitate and cultivate a more equitable future for all. It's inspiring to not only be in constant exploration of new technologies, but to realize their potential to drive social impact and the role I can create for myself in that story. 
+      I'm a Full Stack Software Developer with a passion for music and a commitment to social justice. I’m eager to quench my thirst for transforming abstract ideas into tangible solutions.
       </br>
       </br>
    </div>
 
 - :rocket: Based in Seattle 
-- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> I’m currently attending Nashville Software School
+- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> Nashville Software School Alumni (Cohort 60)
 - <img src="https://media.giphy.com/media/Qf2JERtfzI4c7rfzlF/giphy.gif" width="20"/> Typically spinning records on my turntable or digging through crates to find the newest, tastiest sounds
 - <img src="https://media.giphy.com/media/QRvs3S7Rh2hlfT7dxz/giphy.gif" width="25"/> Likely to be found meditating on a glass of fernet
-- <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25"/> Open to paying forward my time and knowledge to non-profits or mutual aid organizations who seek to grow their digital presence but have limited monetary resources- let's collaborate!
-- <img src="https://f4.bcbits.com/img/a1096625250_10.jpg" width="25"/> Ask me about CAN
-   
+- <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25"/> Open to paying forward my time and knowledge to non-profits or mutual aid organizations who seek to grow their digital presence but have limited monetary resources- let's collaborate!   
 
 ## My Tech Stack
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,6 +57,9 @@
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
    ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+   
+## Full-Stack Capstone Application
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=vinyl-cut&theme=gotham)](https://github.com/lechrsty/vinyl-cut)
    
 ## Client-Side Capstone Application
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lechrsty&repo=woofgang&theme=gotham)](https://github.com/lechrsty/woofgang)
