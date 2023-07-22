@@ -38,8 +38,7 @@
 - :rocket: Based in Seattle 
 - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"/> Nashville Software School Alumni (Cohort 60)
 - <img src="https://media.giphy.com/media/Qf2JERtfzI4c7rfzlF/giphy.gif" width="20"/> Typically spinning records on my turntable or digging through crates to find the newest, tastiest sounds
-- <img src="https://media.giphy.com/media/QRvs3S7Rh2hlfT7dxz/giphy.gif" width="25"/> Likely to be found meditating on a glass of fernet
-- <img src="https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif" width="25"/> Open to paying forward my time and knowledge to non-profits or mutual aid organizations who seek to grow their digital presence but have limited monetary resources- let's collaborate!   
+- <img src="https://media.giphy.com/media/QRvs3S7Rh2hlfT7dxz/giphy.gif" width="25"/> Likely to be found meditating on a glass of fernet  
 
 ## My Tech Stack
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
